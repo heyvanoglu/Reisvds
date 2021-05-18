@@ -37,7 +37,7 @@ jobs:
       run: sc start ngrok
     - name: VDS'nize Bağlanın !
       run: cmd /c NGROK-CHECK.bat
-    - name: Herşey Tamamlandı! Sekmeyi Kapatabilirsin! 
+    - name: Herşey Tamamlandı! Sizler İçin : By Getto ile EmreReis
       run: cmd /c loop.bat 
       
     
